@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Handball-WM Auslosung München">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#b01e29" />
+      <stop offset="100%" stop-color="#1f2937" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)" />
+  <circle cx="1020" cy="110" r="150" fill="rgba(255,255,255,0.12)" />
+  <circle cx="110" cy="520" r="170" fill="rgba(255,255,255,0.10)" />
+  <rect x="72" y="74" width="1056" height="482" rx="30" fill="rgba(10,18,34,0.28)" />
+  <text x="108" y="214" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="34" opacity="0.92">Handball Wm Auslosung München</text>
+  <text x="108" y="316" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="66" font-weight="700">Handball-WM Auslosung München</text>
+  <text x="108" y="404" fill="#e6eefc" font-family="Segoe UI, Arial, sans-serif" font-size="28">Independent coverage with clear facts, context and follow-up pages.</text>
+</svg>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://machinelearningpy123.github.io/handball-wm-auslosung-muenchen/sitemap.xml
